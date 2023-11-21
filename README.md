@@ -2,7 +2,7 @@
 
 ![](./HadoopFullyDist.png)
 
-![(./architecture.png)]
+![](./architecture.png)
 
 Project Steps
 ==============
