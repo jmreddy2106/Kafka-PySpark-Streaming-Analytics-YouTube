@@ -1,7 +1,9 @@
 # Kafka-PySpark-Streaming-Analytics-YouTube
+<p align="center">
+<img src="HadoopFullyDist.png" width="500"/>
+</p>
 
-![](./HadoopFullyDist.png)
-
+## Architecture
 ![](./architecture.png)
 
 Project Steps
