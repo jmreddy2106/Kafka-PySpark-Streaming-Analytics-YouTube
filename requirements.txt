@@ -1,0 +1,7 @@
+findspark
+pyspark
+cassandra
+matplotlib
+kafka
+googleapiclient
+urllib
