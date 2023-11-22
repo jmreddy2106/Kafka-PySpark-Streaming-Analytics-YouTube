@@ -86,8 +86,6 @@ Project Steps
 	`-> spark-streaming-kafka-0-10`
 
 8. Cassandra
-   
-	`-> create key space "youtubedata"`
 
 	`-> CREATE KEYSPACE youtubedata WITH replication = {'class':'SimpleStrategy', 'replication_factor' : 3};`
 
